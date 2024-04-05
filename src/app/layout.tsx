@@ -16,7 +16,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark"> //to activate darkmode but after tailwind config
+    <html lang="en" className="dark">
       <body className={inter.className}>
         <div className="relative w-full flex items-center justify-center">
         <Navbar/>
