@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Data Structures and Algorithms Fundamentals",
+        "slug": "data-structures-algorithms-fundamentals",
+        "description": "Master the basics of data structures and algorithms with this comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "Amit Patel",
+        "isFeatured": true,
+        "image": "/courses/dsa-fundamentals.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Web Development for Beginners",
+        "slug": "web-development-beginners",
+        "description": "Start your journey in web development with foundational skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Neha Sharma",
+        "isFeatured": false,
+        "image": "/courses/web-development.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Advanced AI and Machine Learning Techniques",
+        "slug": "advanced-ai-machine-learning-techniques",
+        "description": "Enhance your knowledge in AI and machine learning with advanced techniques for intermediate to advanced learners.",
+        "price": 119.99,
+        "instructor": "Deepak Khanna",
+        "isFeatured": true,
+        "image": "/courses/ai-ml.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "IoT Development Mastery",
+        "slug": "iot-development-mastery",
+        "description": "Master the Internet of Things (IoT) development with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Rajesh Gupta",
+        "isFeatured": false,
+        "image": "/courses/iot-development.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Cybersecurity Essentials",
+        "slug": "cybersecurity-essentials",
+        "description": "Learn the essentials of cybersecurity to protect your digital assets.",
+        "price": 139.99,
+        "instructor": "Sneha Reddy",
+        "isFeatured": false,
+        "image": "/courses/cybersecurity.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Introduction to DevOps Practices",
+        "slug": "introduction-devops-practices",
+        "description": "Dive into DevOps practices with this introductory course covering the basics of continuous integration, delivery, and deployment.",
+        "price": 149.99,
+        "instructor": "Vivek Kumar",
+        "isFeatured": true,
+        "image": "/courses/devops.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Natural Language Processing",
+        "slug": "natural-language-processing",
+        "description": "Learn the techniques of natural language processing to analyze and understand human language.",
+        "price": 159.99,
+        "instructor": "Ananya Menon",
+        "isFeatured": false,
+        "image": "/courses/nlp.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Big Data Analytics",
+        "slug": "big-data-analytics",
+        "description": "Explore the world of big data analytics and learn to derive insights from massive datasets.",
+        "price": 169.99,
+        "instructor": "Arjun Singh",
+        "isFeatured": true,
+        "image": "/courses/big-data.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Blockchain Fundamentals",
+        "slug": "blockchain-fundamentals",
+        "description": "Discover the fundamentals of blockchain technology and its applications.",
+        "price": 179.99,
+        "instructor": "Ishaan Malhotra",
+        "isFeatured": false,
+        "image": "/courses/blockchain.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Deep Learning Techniques",
+        "slug": "deep-learning-techniques",
+        "description": "Learn advanced deep learning techniques to solve complex real-world problems.",
+        "price": 189.99,
+        "instructor": "Rohini Gupta",
+        "isFeatured": true,
+        "image": "/courses/deep-learning.jpg"
+      }
+    ]
+  }
+  
