@@ -4,7 +4,7 @@ import { BackgroundBeams } from '@/components/ui/background-beams';
 import { useState } from "react";
 
 
-function contact() {
+function Contact() {
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
 
@@ -55,4 +55,4 @@ function contact() {
   )
 }
 
-export default contact
+export default Contact

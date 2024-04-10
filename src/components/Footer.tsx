@@ -1,5 +1,4 @@
 
-
 function Footer() {
     return (
       <footer className="bg-black text-gray-400 py-12">
@@ -7,7 +6,10 @@ function Footer() {
           <div>
             <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
             <p className="mb-4">
-            Welcome to CypherCraft, your go-to platform for mastering the intricacies of technology. At CypherCraft, we're dedicated to providing top-notch education in fields like Data Structures and Algorithms (DSA), Software Development (Dev), Artificial Intelligence and Machine Learning (AIML), and Internet of Things (IoT). Join our vibrant community of tech enthusiasts and embark on your journey to tech mastery today!
+            Welcome to CypherCraft, your go-to platform for mastering the intricacies of technology. At CypherCraft, 
+            we're dedicated to providing top-notch education in fields like Data Structures and Algorithms (DSA), 
+            Software Development (Dev), Artificial Intelligence and Machine Learning (AIML), and Internet of Things (IoT). 
+            Join our vibrant community of tech enthusiasts and embark on your journey to tech mastery today!
             </p>
           </div>
           <div>
