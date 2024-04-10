@@ -1,3 +1,4 @@
+import Educators from "@/components/Educators";
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
 import { Ratings } from "@/components/Ratings";
@@ -8,12 +9,13 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className=" min-h-screen bg-black/[0.96] antialiased  ">
+    <main className=" min-h-screen bg-black/[0.96] dark:bg-grid-white/[0.03] antialiased  ">
       <HeroSection/>
       <FeaturedCourses/>
       <StickyScrollRevealDemo/>
       <Ratings/>
       <UpcomingFree/>
+     <Educators/>
     </main>
   );
 }
